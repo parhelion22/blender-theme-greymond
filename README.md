@@ -1,6 +1,6 @@
-# Greyleigh theme for Blender
+# Greymond theme for Blender
 
-![Screenshot](https://github.com/parhelion22/blender-theme-greyleigh/blob/main/Screenshot.png)
+![Screenshot](https://github.com/parhelion22/blender-theme-greymond/blob/main/Screenshot.png)
 
 Theme for Blender based on the classic Raleigh theme.
 
